@@ -4,7 +4,7 @@
 
 # DO NOT CHANGE THIS VALUE. The deploy script relies on the site being deployed to the
 # "site" directory.
-name = "Kerri-Makes-Art"
+name = "site"
 
 # This page should be the root of your website. It's important.
 page = "https://kerridoesart.notion.site/9542fae3ce354b00a72d9f2d2e487c6a?v=2369f9521c1940fb8a7029843cb2b550"
